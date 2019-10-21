@@ -1,0 +1,6 @@
+a.out
+wikidata/
+.python-version
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
